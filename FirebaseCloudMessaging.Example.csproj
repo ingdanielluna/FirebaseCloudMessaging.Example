@@ -6,11 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FirebaseAdmin" Version="1.9.2" />
+    <ProjectReference Include="..\firebase-admin-dotnet\FirebaseAdmin\FirebaseAdmin\FirebaseAdmin.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <None Update="key.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Message1.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

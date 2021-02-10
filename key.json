@@ -1,3 +1,12 @@
 {
-	"Note" : "Please replace this with your generated Firebase Service Account key"
+	"type": "service_account",
+	"project_id": "xamarinfcm-4d93c",
+	"private_key_id": "278e93c4f4b24fceed690c41dff35c10fcc8cb82",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSlJReutTanISl\n9+nW8hXjevzNgXOIhUs29SAeraHWCIbBZ46XWQOHiN+m9m795ZYKQf0VZgga8ywW\nEzkhuK03gL61Z3CzrGj+khj524Zo6VuBHWbFugzqE1toHAIeQtHTxtwdx1H3eJLN\nP3wl3gQYaDBeezz/Mfb32+0dLx5pR1vo4KiO0pgGGcDkv2lsvWcQM1gC/2GNKkWX\nNZGpfi1fIgOgitqG56sKTIOpHpw4+/vR/cD0WLBQDylkOEcnvwExRws2AJU4B36Q\n+xdoq8dOLvR7VqcoWsKKnSxzALYPt78Rm8NDlUbmBVJmTTK1jCjJtt1r2RA7agoQ\ntzGfrH5zAgMBAAECggEAO1D/9CkjgQrasJeDRnk9oizIHikrPpbxZ2Mn74xQTGZt\ncvg1Kbu4q0pqWXEMNbeginYpEIiDmvfJgNRcYPvQyxQYZCfljq7vilnj8CmelFm7\nXUTHaMXuElduhYZyMEz5JvLamQbGt3M+wtLxqQb/V1Kt4UdMmMPdwdaw1Woq4lNl\nGHMs99V+2RIcAgiI06RuiXLXTiJvZhTdBl7Zqt1mv3U030WdryedVBdX2xS4+/3K\nPb7e4LJ5QWHYIBGCE3UcfIkzZKROQfk7UO4JctLbriqMasnD0yQJJMxX5DLV6Y7N\nPvznQ6NkgIiy4CUZeF8Ro3J5kyvjNUgqia+LhwLrdQKBgQDvzLGAr6eGExnJ5n9B\nY/F8WfHfItEPMbI8ELGav1PTl00eVgVhiiZI34LzlWdnbQcijLPOga4NyUolRuUf\nrBh1Y+2x4O973i9j2zFqHlF0JAJXbTJRmpouuDSh66H7lVxunyslpAFkT19E8iXl\naEPEHznK0DMzvR7MSqXN0h0/nwKBgQDgzoslhyxA1YoAEwmOJRUibRJuJkqamXsA\n3Ksx6u8imNeoW5syUm5oZ5Y4JQOiwXKzEoE1Bktk1s+lNsGAn5lto26b1fgI9nMK\nkrZOR5FyqhBJv7K8yMfuH0FHniaufbPlMTLMTrpxDL20abuEAJ980qWpku0AwuQX\nPrv/g0eArQKBgQDeW25Up4yttFR7dTKXDffEmRrBD+XPMwPU0p39omA2mdu2v4kp\n0xKBDFC/UdCahOzSyqmIWZNt0TLhsgWQAuKDJ/Amuy8WKwbCj2QYxJg/G4zYSLca\nGEPUApc7deW0BeG56fn2Y0evHjJ3GhqtyKrd1x6dw8VWuo0uXiG04pqgfQKBgHl4\noU9B3vOZbtvjbYJVHzpe3VqPbjhjPkeU9Rwf6d8z3zOlbBKg3++iKVVlCrXi+Wsx\nUIeqQwrV15VaJOyvUGQhrx6dW0zcfgT0iXV6zmi649o1rwq7IuzUDp34IsaePZpW\nHzCuSafUTp0xlJUbERKNb95U+aMzq7OzvjmuYfBxAoGBAJfIQN/nY2kDcgUsuxtF\nLrBASkvr6Si/g+SFz6JNcTczGbAFJ5A6rllzsY8vIqegNQBEIySS0nZB6iGaDL/X\n3TrHCw272gvHeFSU8thH6rl6THPz1r8zALofBuobd9DGHImRFC3zSJVOwRZ2GX0P\nZLrmTNqeMT4RGrx18XrVmhjh\n-----END PRIVATE KEY-----\n",
+	"client_email": "firebase-adminsdk-w31bb@xamarinfcm-4d93c.iam.gserviceaccount.com",
+	"client_id": "112013776272746068121",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-w31bb%40xamarinfcm-4d93c.iam.gserviceaccount.com"
 }
